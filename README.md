@@ -1,4 +1,4 @@
-https://github.com/jmart2769gaming/daggerheart-tension-clock/blob/main/module.json
+[https://github.com/jmart2769gaming/daggerheart-tension-clock/blob/main/module.json](https://raw.githubusercontent.com/jmart2769gaming/daggerheart-tension-clock/main/module.json)
 
 # Tension Clock
 
