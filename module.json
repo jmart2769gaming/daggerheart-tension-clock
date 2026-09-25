@@ -1,0 +1,12 @@
+{
+  "id": "daggerheart-tension-clock",
+  "title": "Tension Clock",
+  "description": "A Daggerheart™ Compatible Foundry VTT module with GM-directed Countdowns, Story Beats, linked challenges, Action Roll routing, a player HUD, and escalating visual tension.",
+  "version": "1.0.0",
+  "compatibility": { "minimum": "14", "verified": "14" },
+  "authors": [{ "name": "ReadyPlayerRoll" }],
+  "relationships": { "systems": [{ "id": "daggerheart", "type": "system", "compatibility": {} }] },
+  "esmodules": ["scripts/main.mjs"],
+  "styles": ["styles/tension-clock.css"],
+  "socket": true
+}
