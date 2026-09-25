@@ -1,3 +1,5 @@
+https://github.com/jmart2769gaming/daggerheart-tension-clock/blob/main/module.json
+
 # Tension Clock
 
 **Version 1.0.0 — first stable public release.** Tension Clock is a Daggerheart™ Compatible Foundry VTT module that turns Countdowns into a table-facing GM tool with Story Beats, Dynamic challenges, Action Roll routing, player HUDs, and escalating visual tension. It is an independent third-party product.
